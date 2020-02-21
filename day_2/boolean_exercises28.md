@@ -1,5 +1,4 @@
 
-
 ## Boolean Exercises and Study
 
 Boolean characters for reference:  
