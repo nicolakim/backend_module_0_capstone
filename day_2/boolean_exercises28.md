@@ -1,7 +1,7 @@
 
 ## Boolean Exercises and Study
 
-Boolean characters for reference:  
+_Boolean characters for my reference:_  
 
 | NOT    | true? |
 | :----- | :---- |
