@@ -1,7 +1,7 @@
 ## Day 5 Questions  
 
 1. What is a Hash, and how is it different from an Array in Ruby?  
-   Hashes and arrays both store collections of data in Ruby. However arrays store singular elements of data and hashes store collections of key-value pairs.  
+   **Hashes** and **arrays** both store collections of data in Ruby. However arrays store singular elements of data and hashes store collections of key-value pairs.  
    Whilst data stored in arrays are unique objects with a unique key assigned to it. Indexing in hashes is done with the key-value pairs, meaning hashes point to another object.
 
 1. In the space below, create a Hash stored to a variable named `pet_store`.  This hash should hold an inventory of items and the number of that item that you might find at a pet store.
@@ -22,7 +22,7 @@
    states.values  #This returns the hash values
    ```  
 
-1. What is another example of when we might use a hash?  In this case, why is a hash better than an array?
+1. What is another example of when we might use a hash?  In this case, why is a hash better than an array?  
    If we have an online store with products and their regular prices, this could be stored in a hash. The name of the item we're selling and the regular price of that item.  
    We could also have another hash with the same items and prices, but this time the price could be a _sale_ price, with the prices adjusted for when the online store is having a sale.  
    By storing the original regular prices and items in a separate hash, we can revert back to the regular prices once the sale period ends.  
