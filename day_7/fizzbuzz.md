@@ -1,4 +1,4 @@
-## FizzBuzz
+## FizzBuzz  
 
 Create a file named fizzbuzz.rb and within that file, write a program that prints the numbers from 1 to 100 with the following rules:  
 * For any number that is a multiple of 3, print 'Fizz'
@@ -13,3 +13,12 @@ The output of you program will look something like this:
 
 ### Bonus
 Can you write the program so that it will run for any range of numbers?
+
+### Notes
+- ask user for starting number and ending number  
+- make the results integers  
+_rules:_  
+- if number is multiple of 3 and 5, print 'FizzBuzz'  
+- if number is multiple of 3 print 'Fizz'  
+- if number is multiple of 5 print 'Buzz'  
+- if else, print number   
